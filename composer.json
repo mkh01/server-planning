@@ -1,0 +1,20 @@
+{
+    "name": "mahmoud/server-planning",
+    "description": "Server Planning library to calculate the number of Servers needed to host a specified amount of virtual machines",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mahmoud Khawatmi",
+            "email": "mahm.khaw@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    }
+}

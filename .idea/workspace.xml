@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8582352a-bed3-46c3-9d0c-252936a9e5bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1WOnqBpooACNFghtXmtugy0PSxp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.tests">
+    <configuration name="ServerPlannerTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="ServerPlannerTest" configuration_file="$PROJECT_DIR$/phpunit.xml.dist" file="$PROJECT_DIR$/tests/ServerPlannerTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ServerPlannerTest.testCalculate" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="ServerPlannerTest" configuration_file="$PROJECT_DIR$/phpunit.xml.dist" file="$PROJECT_DIR$/tests/ServerPlannerTest.php" method="testCalculate" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ServerTypeTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="ServerTypeTest" configuration_file="$PROJECT_DIR$/phpunit.xml.dist" file="$PROJECT_DIR$/tests/ServerTypeTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml.dist" directory="$PROJECT_DIR$/tests" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.tests" />
+        <item itemvalue="PHPUnit.ServerTypeTest" />
+        <item itemvalue="PHPUnit.ServerPlannerTest" />
+        <item itemvalue="PHPUnit.ServerPlannerTest.testCalculate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8582352a-bed3-46c3-9d0c-252936a9e5bb" name="Default Changelist" comment="" />
+      <created>1579029696849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579029696849</updated>
+      <workItem from="1579029698593" duration="8392000" />
+      <workItem from="1579077093552" duration="802000" />
+      <workItem from="1579118665540" duration="1123000" />
+      <workItem from="1579120158953" duration="2426000" />
+      <workItem from="1579124075833" duration="22523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="167" width="824" height="692" key="#CLI_Interpreters" timestamp="1579035750860">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="423" y="167" width="824" height="692" key="#CLI_Interpreters/67.27.1433.972@67.27.1433.972" timestamp="1579035750860" />
+    <state x="421" y="117" width="700" height="831" key="#PHP" timestamp="1579034085600">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="421" y="117" width="700" height="831" key="#PHP/67.27.1433.972@67.27.1433.972" timestamp="1579034085600" />
+    <state x="359" y="162" width="824" height="692" key="#Test_Frameworks" timestamp="1579036580183">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="359" y="162" width="824" height="692" key="#Test_Frameworks/67.27.1433.972@67.27.1433.972" timestamp="1579036580183" />
+    <state x="480" y="305" width="634" height="422" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579029735201">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="480" y="305" width="634" height="422" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1433.972@67.27.1433.972" timestamp="1579029735201" />
+    <state x="559" y="203" width="444" height="642" key="#com.intellij.ide.util.MemberChooser" timestamp="1579039327531">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="559" y="203" width="444" height="642" key="#com.intellij.ide.util.MemberChooser/67.27.1433.972@67.27.1433.972" timestamp="1579039327531" />
+    <state x="531" y="146" width="476" height="764" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579120376847">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="531" y="146" width="476" height="764" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1433.972@67.27.1433.972" timestamp="1579120376847" />
+    <state x="1920" y="286" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1579179808700">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state x="519" y="266" width="524" height="492" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/67.27.1433.972@67.27.1433.972" timestamp="1579128028557" />
+    <state x="1920" y="286" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/67.27.3773.1053@67.27.3773.1053" timestamp="1579179808700" />
+    <state x="621" y="215" width="424" height="492" key="FileChooserDialogImpl" timestamp="1579036990942">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="621" y="215" width="424" height="492" key="FileChooserDialogImpl/67.27.1433.972@67.27.1433.972" timestamp="1579036990942" />
+    <state width="1807" height="134" key="GridCell.Tab.0.bottom" timestamp="1579180482929">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1387" height="95" key="GridCell.Tab.0.bottom/67.27.1433.972@67.27.1433.972" timestamp="1579128844515" />
+    <state width="1807" height="134" key="GridCell.Tab.0.bottom/67.27.3773.1053@67.27.3773.1053" timestamp="1579180482929" />
+    <state width="1807" height="134" key="GridCell.Tab.0.center" timestamp="1579180482928">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1387" height="95" key="GridCell.Tab.0.center/67.27.1433.972@67.27.1433.972" timestamp="1579128844512" />
+    <state width="1807" height="134" key="GridCell.Tab.0.center/67.27.3773.1053@67.27.3773.1053" timestamp="1579180482928" />
+    <state width="1807" height="134" key="GridCell.Tab.0.left" timestamp="1579180482927">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1387" height="95" key="GridCell.Tab.0.left/67.27.1433.972@67.27.1433.972" timestamp="1579128844511" />
+    <state width="1807" height="134" key="GridCell.Tab.0.left/67.27.3773.1053@67.27.3773.1053" timestamp="1579180482927" />
+    <state width="1807" height="134" key="GridCell.Tab.0.right" timestamp="1579180482929">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1387" height="95" key="GridCell.Tab.0.right/67.27.1433.972@67.27.1433.972" timestamp="1579128844514" />
+    <state width="1807" height="134" key="GridCell.Tab.0.right/67.27.3773.1053@67.27.3773.1053" timestamp="1579180482929" />
+    <state width="1874" height="157" key="GridCell.Tab.1.bottom" timestamp="1579178899492">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1387" height="311" key="GridCell.Tab.1.bottom/67.27.1433.972@67.27.1433.972" timestamp="1579126422361" />
+    <state width="1874" height="157" key="GridCell.Tab.1.bottom/67.27.3773.1053@67.27.3773.1053" timestamp="1579178899492" />
+    <state width="1874" height="157" key="GridCell.Tab.1.center" timestamp="1579178899487">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1387" height="311" key="GridCell.Tab.1.center/67.27.1433.972@67.27.1433.972" timestamp="1579126422360" />
+    <state width="1874" height="157" key="GridCell.Tab.1.center/67.27.3773.1053@67.27.3773.1053" timestamp="1579178899487" />
+    <state width="1874" height="157" key="GridCell.Tab.1.left" timestamp="1579178899486">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1387" height="311" key="GridCell.Tab.1.left/67.27.1433.972@67.27.1433.972" timestamp="1579126422359" />
+    <state width="1874" height="157" key="GridCell.Tab.1.left/67.27.3773.1053@67.27.3773.1053" timestamp="1579178899486" />
+    <state width="1874" height="157" key="GridCell.Tab.1.right" timestamp="1579178899491">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1387" height="311" key="GridCell.Tab.1.right/67.27.1433.972@67.27.1433.972" timestamp="1579126422360" />
+    <state width="1874" height="157" key="GridCell.Tab.1.right/67.27.3773.1053@67.27.3773.1053" timestamp="1579178899491" />
+    <state x="563" y="342" width="417" height="381" key="NewPhpClassDialog" timestamp="1579034284810">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="563" y="342" width="417" height="381" key="NewPhpClassDialog/67.27.1433.972@67.27.1433.972" timestamp="1579034284810" />
+    <state x="572" y="422" width="399" height="157" key="NewPhpFileDialog" timestamp="1579120203201">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="572" y="422" width="399" height="157" key="NewPhpFileDialog/67.27.1433.972@67.27.1433.972" timestamp="1579120203201" />
+    <state x="371" y="107" width="1016" height="738" key="SettingsEditor" timestamp="1579036992375">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="371" y="107" width="1016" height="738" key="SettingsEditor/67.27.1433.972@67.27.1433.972" timestamp="1579036992375" />
+    <state x="482" y="155" width="688" height="754" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1579034273178">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="482" y="155" width="688" height="754" key="com.jetbrains.php.test.PhpNewTestDialog/67.27.1433.972@67.27.1433.972" timestamp="1579034273178" />
+    <state x="334" y="53" width="898" height="909" key="find.popup" timestamp="1579126727616">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="334" y="53" width="898" height="909" key="find.popup/67.27.1433.972@67.27.1433.972" timestamp="1579126727616" />
+    <state x="1068" y="246" key="run.anything.popup" timestamp="1579174611586">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state x="447" y="229" key="run.anything.popup/67.27.1433.972@67.27.1433.972" timestamp="1579122135413" />
+    <state x="1068" y="246" key="run.anything.popup/67.27.3773.1053@67.27.3773.1053" timestamp="1579174611586" />
+    <state x="656" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1579180423451">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state x="656" y="251" width="672" height="678" key="search.everywhere.popup/67.27.3773.1053@67.27.3773.1053" timestamp="1579180423451" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>34</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>35</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>36</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>37</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>42</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>38</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>44</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>45</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>46</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>47</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>48</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>50</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>51</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>52</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>54</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/src/ServerPlanner.php</url>
+          <line>53</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
